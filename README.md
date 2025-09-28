@@ -1,1 +1,1 @@
-# python-lesson-15
+# local-development-environment-setup-coffee-machine
